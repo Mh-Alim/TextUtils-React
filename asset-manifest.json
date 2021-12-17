@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mh-Alim/TextUtils-React/static/css/main.9fb89807.chunk.css",
+    "main.js": "/Mh-Alim/TextUtils-React/static/js/main.a9c54303.chunk.js",
+    "main.js.map": "/Mh-Alim/TextUtils-React/static/js/main.a9c54303.chunk.js.map",
+    "runtime-main.js": "/Mh-Alim/TextUtils-React/static/js/runtime-main.7c5b0f37.js",
+    "runtime-main.js.map": "/Mh-Alim/TextUtils-React/static/js/runtime-main.7c5b0f37.js.map",
+    "static/js/2.0370b80b.chunk.js": "/Mh-Alim/TextUtils-React/static/js/2.0370b80b.chunk.js",
+    "static/js/2.0370b80b.chunk.js.map": "/Mh-Alim/TextUtils-React/static/js/2.0370b80b.chunk.js.map",
+    "static/js/3.35021bcd.chunk.js": "/Mh-Alim/TextUtils-React/static/js/3.35021bcd.chunk.js",
+    "static/js/3.35021bcd.chunk.js.map": "/Mh-Alim/TextUtils-React/static/js/3.35021bcd.chunk.js.map",
+    "index.html": "/Mh-Alim/TextUtils-React/index.html",
+    "static/css/main.9fb89807.chunk.css.map": "/Mh-Alim/TextUtils-React/static/css/main.9fb89807.chunk.css.map",
+    "static/js/2.0370b80b.chunk.js.LICENSE.txt": "/Mh-Alim/TextUtils-React/static/js/2.0370b80b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c5b0f37.js",
+    "static/js/2.0370b80b.chunk.js",
+    "static/css/main.9fb89807.chunk.css",
+    "static/js/main.a9c54303.chunk.js"
+  ]
+}
